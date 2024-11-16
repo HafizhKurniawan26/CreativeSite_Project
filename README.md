@@ -9,6 +9,6 @@ This project was built using:
 ## Installation and Usage
 **Clone this repository:**
 - git clone https://github.com/HafizhKurniawan26/CreativeSite_Project.git
-- cd repository-name
+- cd CreativeSite_Project
 - npm install
 - npm run dev
