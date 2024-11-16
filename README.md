@@ -8,6 +8,6 @@ This project was built using:
 
 ## Installation and Usage
 **Clone this repository:**
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
-   npm install
+git clone https://github.com/username/repository-name.git
+cd repository-name
+npm install
