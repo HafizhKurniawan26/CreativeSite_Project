@@ -83,7 +83,7 @@ export default function App() {
       </section>
 
       {/* Contact Us */}
-      <section className="mb-20">
+      <section className="mb-20" id="contact">
         <div>
           <div className="flex flex-col gap-3">
             <h1 className="text-4xl font-bold text-center">
@@ -95,7 +95,9 @@ export default function App() {
           </div>
 
           <div className="grid grid-cols-5 gap-4 mt-16">
-            <div className="flex flex-col bg-blue-800 col-span-2 p-12 rounded-xl  justify-between">
+            <div className="flex flex-col bg-blue-800 col-span-2 p-12 rounded-xl  justify-between h-[430px] relative">
+              <div className="absolute bg-white h-28 w-28 rounded-full opacity-20 -bottom-6 right-12"></div>
+              <div className="absolute bg-white h-32 w-32 rounded-full opacity-20 -bottom-20 -right-4"></div>
               {/* Header */}
               <div>
                 <h1 className="text-xl font-bold text-white">
