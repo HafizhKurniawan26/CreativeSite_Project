@@ -1,14 +1,10 @@
 import Navbar from "./components/navbar/Navbar";
-import { datas, foundedClients } from "./data/datas";
 import "@fontsource/poppins";
-import { BsFillTelephoneFill } from "react-icons/bs";
-import { IoMdMail } from "react-icons/io";
-import { MdLocationPin } from "react-icons/md";
-import FormData from "./components/form/FormData";
 import Jumbotron from "./sections/Jumbotron";
 import About from "./sections/About";
 import Service from "./sections/Service";
 import ContactUs from "./sections/ContactUs";
+import Team from "./sections/Team";
 
 export default function App() {
   return (
@@ -23,6 +19,8 @@ export default function App() {
 
       {/* Services */}
       <Service />
+
+      <Team />
 
       {/* Contact Us */}
       <ContactUs />

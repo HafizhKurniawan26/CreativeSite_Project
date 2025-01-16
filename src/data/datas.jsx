@@ -36,3 +36,31 @@ export const foundedClients = [
     value: "140",
   },
 ];
+
+export const teams = [
+  {
+    name: "orang ke 1",
+    job: "CEO",
+    image: img1,
+  },
+  {
+    name: "orang ke 2",
+    job: "Designer",
+    image: img2,
+  },
+  {
+    name: "orang ke 3",
+    job: "Programmer",
+    image: img3,
+  },
+  {
+    name: "orang ke 4",
+    job: "Assistant",
+    image: img4,
+  },
+  {
+    name: "orang ke 5",
+    job: "Admin",
+    image: img1,
+  },
+];

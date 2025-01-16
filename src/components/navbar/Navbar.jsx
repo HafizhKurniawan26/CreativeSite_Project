@@ -44,7 +44,11 @@ const Navbar = () => {
             <NavLink label="Our Customer" />
           </li>
           <li>
-            <NavLink label="Team" />
+            <NavLink
+              label="Team"
+              id="ourTeam"
+              scrollToSection={scrollToSection}
+            />
           </li>
           <li>
             <NavLink label="Career" />

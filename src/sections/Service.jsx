@@ -3,7 +3,7 @@ import { datas } from "../data/datas";
 
 const Service = () => {
   return (
-    <section className="mt-32 mb-40" id="services">
+    <section className="mt-32 mb-32" id="services">
       <div>
         <h1 className="text-4xl font-bold text-center">What We Do?</h1>
       </div>
