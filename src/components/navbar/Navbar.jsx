@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../../assets/images/Logo.png";
-import NavLink from "./NavLink";
+import NavLink from "../navbar/Navlink";
 
 const Navbar = () => {
   const scrollToSection = (id) => {
