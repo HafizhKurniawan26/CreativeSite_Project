@@ -40,9 +40,7 @@ const Navbar = () => {
               scrollToSection={scrollToSection}
             />
           </li>
-          <li>
-            <NavLink label="Our Customer" />
-          </li>
+
           <li>
             <NavLink
               label="Team"
@@ -50,9 +48,7 @@ const Navbar = () => {
               scrollToSection={scrollToSection}
             />
           </li>
-          <li>
-            <NavLink label="Career" />
-          </li>
+
           <li>
             <NavLink
               label="Contact"

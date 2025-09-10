@@ -34,17 +34,17 @@ const ContactUs = () => {
             <div className="flex flex-col gap-6">
               <div className="flex text-white gap-2 items-center">
                 <BsFillTelephoneFill />
-                <p className="text-sm">+62728383838383</p>
+                <p className="text-sm">+6281234567890</p>
               </div>
 
               <div className="flex text-white gap-2 items-center">
                 <IoMdMail />
-                <p className="text-sm">hahjajajajaj@gmail.com</p>
+                <p className="text-sm">someone@gmail.com</p>
               </div>
 
               <div className="flex text-white gap-2 items-center">
                 <MdLocationPin />
-                <p className="text-sm">lajajshjskskskkssksk</p>
+                <p className="text-sm">Tangerang</p>
               </div>
             </div>
           </div>
