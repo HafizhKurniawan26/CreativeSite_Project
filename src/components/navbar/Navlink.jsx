@@ -1,5 +1,3 @@
-import React from "react";
-
 const NavLink = ({ id, label, scrollToSection }) => {
   const handleClick = (e) => {
     e.preventDefault();
